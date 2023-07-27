@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-1 {
+    background-image: url("https://img.freepik.com/free-photo/wooden-bridge-beach-during-sunset_181624-18247.jpg?w=740&t=st=1690279377~exp=1690279977~hmac=078efee9b0e0a3c07cba9eb7f83e302bf4366aa21c535cea355401fbd1099207");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-1 {
+    font-family: "roboto";
+    font-size: 40px;
+    color: lightgrey;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.quote-line-1 {
+    font-family: "serif";
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.next-button-1 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
+.page-2 {
+    background-image: url("https://cdn.vectorstock.com/i/1000x1000/98/13/books-on-the-table-background-for-text-vector-21599813.webp");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-2 {
+    font-family: "sarif";
+    font-size: 40px;
+    color: #000;
+    margin: 20px;
+    text-align: center;
+}
+
+.quote-line-2 {
+    font-family: "Lucida Console";
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.next-button-2 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.page-3 {
+    background-image: url("https://img.freepik.com/free-photo/two-grey-cardboard-papers-corner-blue-backdrop_23-2147878447.jpg?w=740&t=st=1690109911~exp=1690110511~hmac=6e54411950bf40af38b2fc3f0bbc982a704268de6c503bd96eb6a3e49977d3f8");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-3 {
+    font-family: "Times New Roman";
+    font-size: 40px;
+    color: #ffffff;
+    margin: 20px;
+    text-align: center;
+}
+
+.quote-line-3 {
+    font-family: "cursive";
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.next-button-3 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.page-4 {
+    background-image: url("https://img.freepik.com/free-photo/wood-standing-blank-arms-crossed-understanding_1134-1124.jpg?w=740&t=st=1690107311~exp=1690107911~hmac=41eb0dec94d791a2e912817a504ecee278f67beb3544ee7b666117830b6da920");
+    background-size: cover;
+    background: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-4 {
+    font-family: "Sans-Serif";
+    font-size: 40px;
+    color: #ffffff;
+    margin: 10px;
+    text-align: center;
+}
+
+.quote-line-4 {
+    font-family: "Roboto";
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.next-button-4 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.page-5 {
+    background-image: url("https://img.freepik.com/free-photo/image-engineering-objects-workplace-top-view-construction-concept-engineering-tools-vintage-tone-retro-filter-effect-soft-focus-selective-focus_1418-711.jpg?w=740&t=st=1690108265~exp=1690108865~hmac=bcafa317a494f9794c0f9b2d94ab853e37813c7a664fde8a035fd3f38afdbf29");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-5 {
+    font-family: "Serif";
+    font-size: 40px;
+    color: #ffffff;
+    margin: 10px;
+    text-align: center;
+}
+
+.quote-line-5 {
+    font-family: "Italic";
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.next-button-5 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.page-6 {
+    background-image: url("https://img.freepik.com/premium-photo/cartoon-two-women-taking-picture-with-their-phone_894855-633.jpg?w=740");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-6 {
+    font-family: "fantasy";
+    font-size: 40px;
+    color: #000;
+    margin: 10px;
+    text-align: center;
+}
+
+.quote-line-6 {
+    font-family: "fantasy";
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.next-button-6 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.page-7 {
+    background-image: url("https://img.freepik.com/free-photo/panoramic-view-sunset_23-2148933760.jpg?w=740&t=st=1690108597~exp=1690109197~hmac=c5e40e97f5f8c793502673c3c58ee727b7b15cb934211eb4e5b783a2de91089f");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-7 {
+    font-family: "math";
+    font-size: 40px;
+    color: #ffffff;
+    margin: 10px;
+    text-align: center;
+}
+
+.quote-line-7 {
+    font-family: "math";
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    color: #ffffff;
+}
+
+.next-button-7 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.page-8 {
+    background-image: url("https://img.freepik.com/free-photo/ursa-major-ursa-minor-constellations_23-2150028878.jpg?w=826&t=st=1690108529~exp=1690109129~hmac=0ef81fd55fc7f4340c0fcc4ab9e533b2e9017fb8845a01d6b046570a64d48b09");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.quote-heading-8 {
+    font-family: "emoji";
+    font-size: 40px;
+    color: #3495eb;
+    margin: 10px;
+    text-align: center;
+}
+
+.quote-line-8 {
+    font-family: "math";
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    color: skyblue;
+}
+
+.next-button-8 {
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    font-family: "roboto";
+    background-color: lightblue;
+    border-radius: 5px;
+}
